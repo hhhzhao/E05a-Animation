@@ -1,3 +1,6 @@
+Hello, my name is Hua Zhao. In this assignment, I studied the code of animation on arcade. This assignment is explain what is each line of the code doing in the main1 and main2. Main1.py is about the ball moving by the mouse, after we click the mouse, it will change the color and the terminal will display different number. Main2.py is about the ball is moving by the key press.
+
+
 # E05a-Animation
 
 We will begin to explore keyboard and mouse control in a Python Arcade program.
